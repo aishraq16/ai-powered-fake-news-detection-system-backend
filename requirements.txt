@@ -1,0 +1,10 @@
+google-cloud-vision
+python-dotenv
+vertexai
+tqdm
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+Pillow
+
